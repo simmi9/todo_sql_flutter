@@ -36,7 +36,14 @@ Presentation Layer- UI layer- widgets, pages
 fork/ clone the app
 - make sure you have latest version of flutter installed
 -  run it on android or iphone. Certain features of sqllite do not work on flutter web.
-- ms setting for developer might be needed to be set. 
+- ms setting for developer might be needed to be set.
+
+## screen shots
+add_todo.png
+done_todo.png
+not_done_todo.png
+search_todo.png
+todo_All.png
 
 
 
