@@ -39,10 +39,10 @@ fork/ clone the app
 - ms setting for developer might be needed to be set.
 
 ## screen shots
-add_todo.png
-done_todo.png
-not_done_todo.png
-search_todo.png
+add_todo.png, 
+done_todo.png, 
+not_done_todo.png,
+search_todo.png, 
 todo_All.png
 
 
